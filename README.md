@@ -1,10 +1,10 @@
 <h2 align="right">My name is Yann Pavlenko</h2>
 <blockquote align="right"><h4>I build accessible interfaces, efficient design systems, and scalable web applications. Mostly with TypeScript.</h4></blockquote>
 
-[![TypeScript](https://badges.aleen42.com/src/typescript.svg)]()
-[![React](https://badges.aleen42.com/src/react.svg)]()
-[![Node](https://github.com/aleen42/badges/raw/master/src/node.svg)]()
-[![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)]()
+[![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://github.com/mrtheyann)
+[![React](https://badges.aleen42.com/src/react.svg)](https://github.com/mrtheyann)
+[![Node](https://github.com/aleen42/badges/raw/master/src/node.svg)](https://github.com/mrtheyann)
+[![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)](https://github.com/mrtheyann)
 
 ⌚️ My timezone is GMT+3 (sometimes it could possibly be GMT+5)
 
@@ -12,7 +12,7 @@
 
 👩‍💼 If you want to hire me, I am a remote-first person, but still do consider relocation offers if we are on the same vibe 🤙
 
-📫 Email me by [mrtheyann@gmail.com](mrtheyann@gmail.com)
+📫 Email me by [mrtheyann@gmail.com](mailto:mrtheyann@gmail.com)
 
 Or you could either contact me directly for CV or anything with a faster reply via Telegram
 
