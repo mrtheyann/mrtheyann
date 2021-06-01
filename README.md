@@ -14,7 +14,7 @@
 
 📫 Email me by [mrtheyann@gmail.com](mrtheyann@gmail.com)
 
-Or you could either contact me directly for a fast reply via Telegram
+Or you could either contact me directly for CV or anything with faster reply via Telegram
 
 [![Contact me](https://badges.aleen42.com/src/telegram.svg)](https://t.me/mrtheyann)
 
