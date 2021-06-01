@@ -1,5 +1,5 @@
 <h2 align="right">My name is Yann Pavlenko</h2>
-<blockquote align="right"><h4>I do accessible interfaces, efficient design systems, and scalable web applications. Mostly with TypeScript.</h4></blockquote>
+<blockquote align="right"><h4>I build accessible interfaces, efficient design systems, and scalable web applications. Mostly with TypeScript.</h4></blockquote>
 
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)]()
 [![React](https://badges.aleen42.com/src/react.svg)]()
