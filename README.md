@@ -3,7 +3,7 @@
 
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://github.com/mrtheyann)
 [![React](https://badges.aleen42.com/src/react.svg)](https://github.com/mrtheyann)
-[![Node](https://github.com/aleen42/badges/raw/master/src/node.svg)](https://github.com/mrtheyann)
+[![Node](https://badges.aleen42.com/src/node.svg)](https://github.com/mrtheyann)
 [![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)](https://github.com/mrtheyann)
 
 ⌚️ My timezone is GMT+3 (sometimes it could possibly be GMT+5)
