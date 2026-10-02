@@ -5,7 +5,7 @@
 
 💼 Do prefer small well organized engineering teams. Soft skills and clear communications are still owns, you'd arguably change my mind here honestly.
 
-👩‍💼 I'm not so into hire right now, pretty much happy with my team. Yet open to offers. Remote-oriented, but there are probably opportunity that could change my mind.
+👩‍💼 I'm not so into hire right now, pretty much happy with my team. Yet open to offers. Remote-oriented, but there are probably opportunities worth to consider.
 
 🤝 Mine GitHub is not that representative because it never meant to. Im not into side-hustle thing or selling you something. This might sound conservative these days.
 
