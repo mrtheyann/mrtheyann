@@ -1,16 +1,15 @@
-<h2 align="right">My name is Yann Pavlenko</h2>
-<blockquote align="right"><h4>I build accessible interfaces, efficient design systems, and scalable web applications. Mostly with TypeScript.</h4></blockquote>
+<h2 align="right">Uh, hello? My name is Yann an I'm into these AI things too. </h2>
+<blockquote align="right"><h4>I used to focus more on frontends in the past, now I focused more on applied-llm+ solutions I'd say.</h4></blockquote>
 
-[![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://github.com/mrtheyann)
-[![React](https://badges.aleen42.com/src/react.svg)](https://github.com/mrtheyann)
-[![Node](https://badges.aleen42.com/src/node.svg)](https://github.com/mrtheyann)
-[![VSCode](https://badges.aleen42.com/src/visual_studio_code.svg)](https://github.com/mrtheyann)
+⌚️ Operating in GMT+3 / GMT+5 currently
 
-⌚️ My timezone is GMT+3 (sometimes it could possibly be GMT+5)
+💼 Do prefer small well organized engineering teams. Soft skills and clear communications are still owns, you'd arguably change my mind here honestly.
 
-💼 I believe in clear communication, soft skills and prefer small well organized engineering teams.
+👩‍💼 I'm not so into hire right now, pretty much happy with my team. Yet open to offers. Remote-oriented, but there are probably opportunity that could change my mind.
 
-👩‍💼 If you want to hire me, I am a remote-first person, but still do consider relocation offers if we are on the same vibe 🤙
+🤝 Mine GitHub is not that representative because it never meant to. Im not into side-hustle thing or selling you something. This might sound conservative these days.
+
+All these said, I've got a few tools, you know.
 
 📫 Email me by [mrtheyann@gmail.com](mailto:mrtheyann@gmail.com)
 
@@ -18,4 +17,3 @@ Or you could either contact me directly for CV or anything with a faster reply v
 
 [![Contact me](https://badges.aleen42.com/src/telegram.svg)](https://t.me/mrtheyann)
 
-Stay fly and have a nice day up there! 🛹
